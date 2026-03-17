@@ -37,7 +37,7 @@ export default function App() {
     <>
       {/* Header */}
       <header className="app-header">
-        <h1>🔥 CalTrack</h1>
+        <h1>⚡ CALTRACK</h1>
         <span className="header-date">{dateLabel}</span>
       </header>
 
